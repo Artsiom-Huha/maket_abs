@@ -1,0 +1,32 @@
+.c2{
+    position: relative;
+    width:400px;
+    height: 400px;
+    margin: auto;
+}
+.smok{
+    z-index: 1;
+    top: 72px;
+    right: 72px;
+}
+.bio{
+    left: 20px;
+    top: 20px;
+}
+.man{
+    right: 20px;
+    top: 20px;
+}
+.yin{
+    bottom: 20px;
+    right: 100px;
+}
+.c3{
+    position: absolute;
+}
+.c3:hover{
+    z-index: 2;
+}
+body{
+    overflow: hidden;
+}
